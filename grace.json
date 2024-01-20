@@ -1,5 +1,4 @@
 {
-    "name": "Grace Madison",
     "sprites": [
         "https://i.imgur.com/d5sriLj.png",
         "https://i.imgur.com/gpcz5k5.png",
@@ -29,4 +28,8 @@
         "https://i.imgur.com/vFYCypR.png",
         "https://i.imgur.com/12z3E2Z.png",
         "https://i.imgur.com/Gx7op0k.png"
-  ]}
+  ],
+  "name": "Grace Madison",
+  "id": "33965359",
+"flair": "https://i.imgur.com/gR6seVY.png"
+}
